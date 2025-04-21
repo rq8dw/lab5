@@ -16,13 +16,21 @@ Managers:
 	исполнение обеспечивает метод doCommand(String input, CollectionManager collectionManager, Reciever reciever)
 - CollectionManager - хранит LinkedHashSet
 	работа с коллекцией
+
 Commands:
+
 Все комманды наследуются интерфейса от BaseCommand:
 	execute, getName, getDescription
+
 Принцип работы:
+
 Console ожидает ввода
+
 Console парсит строку и кидает аргументы в CommandManager (
 	String out = commandManager.doCommand(input, collectionManager, reciever)
+
 CommandManager определяет комманду и ключи 
+
 CommandManager получаем нужную нам команду и запускаем ее со всеми аргументами
+
 Далее каждая команда выполняется так, как её прописали
