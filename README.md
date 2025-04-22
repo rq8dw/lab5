@@ -35,3 +35,26 @@ Commands:
 - CommandManager получаем нужную нам команду и запускаем ее со всеми аргументами
 
 - Далее каждая команда выполняется так, как её прописали
+
+
+Работоспособность программы:
+
+![image](https://github.com/user-attachments/assets/46390ca8-017c-4289-98cb-67b479b2d72d)
+
+- Подгружает локальную переменную и выводит, что в неё лежит.
+
+![image](https://github.com/user-attachments/assets/d02dc665-915d-4497-8052-07ff943ce746)
+
+- Обновляет коллекции внутри локальной переменной.
+
+![image](https://github.com/user-attachments/assets/bba20159-31f3-490d-ad18-055572c8e0bb)
+  
+- Добавляет новые коллекции внутри локальной переменной.
+
+  ![image](https://github.com/user-attachments/assets/42e37317-e4b1-4aa0-918a-3b687ddb0e29)
+
+- Удаляет коллекции внутри локальной переменной.
+
+  ![image](https://github.com/user-attachments/assets/dedca3ba-6c3b-42e7-ba18-0a0b1976dec7)
+
+- При команде execute_script проверяет на рекурсию, при команде save сохраняет коллекцию в файл.
