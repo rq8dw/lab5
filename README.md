@@ -52,11 +52,11 @@ Commands:
   
 - Добавляет новые элементы внутри локальной переменной.
 
-  ![image](https://github.com/user-attachments/assets/42e37317-e4b1-4aa0-918a-3b687ddb0e29)
+![image](https://github.com/user-attachments/assets/42e37317-e4b1-4aa0-918a-3b687ddb0e29)
 
 - Удаляет элементы внутри локальной переменной.
 
-  ![image](https://github.com/user-attachments/assets/dedca3ba-6c3b-42e7-ba18-0a0b1976dec7)
+![image](https://github.com/user-attachments/assets/dedca3ba-6c3b-42e7-ba18-0a0b1976dec7)
 
 - При команде execute_script проверяет на рекурсию, при команде save сохраняет элемент в файл.
 
@@ -64,23 +64,23 @@ Commands:
 
 - Может обновлять элементы
 
-  ![image](https://github.com/user-attachments/assets/b538e397-0468-496f-9dab-23723d008d3e)
+![image](https://github.com/user-attachments/assets/b538e397-0468-496f-9dab-23723d008d3e)
 
-  - Может добавлять элементы, чей минимальный балл меньше наименьшего.
+- Может добавлять элементы, чей минимальный балл меньше наименьшего.
  
-    ![image](https://github.com/user-attachments/assets/2b57a208-94db-4b49-872b-95f19983d4c6)
+![image](https://github.com/user-attachments/assets/2b57a208-94db-4b49-872b-95f19983d4c6)
 
-  - Может добавлять элемент, чей минимальный балл больше наибольшего.
+- Может добавлять элемент, чей минимальный балл больше наибольшего.
  
-    ![image](https://github.com/user-attachments/assets/bd132a68-0e7b-45c9-bc50-11edc0e590c6)
+![image](https://github.com/user-attachments/assets/bd132a68-0e7b-45c9-bc50-11edc0e590c6)
 
-  - Выводит значения minimalPoint в порядке убывания.
+- Выводит значения minimalPoint в порядке убывания.
 
- ![image](https://github.com/user-attachments/assets/6cbe071c-7962-42ef-ba43-68319ff0ddfb)
+![image](https://github.com/user-attachments/assets/6cbe071c-7962-42ef-ba43-68319ff0ddfb)
 
- - Может отчистить коллекцию
+- Может отчистить коллекцию
 
-   ![image](https://github.com/user-attachments/assets/5c209d96-8bbd-4d95-ab38-708a807e3d2b)
+![image](https://github.com/user-attachments/assets/5c209d96-8bbd-4d95-ab38-708a807e3d2b)
 
 - Может завершить выполнение программы без сохранения
 
