@@ -43,7 +43,7 @@ Commands:
 
 ![image](https://github.com/user-attachments/assets/46390ca8-017c-4289-98cb-67b479b2d72d)
 
-- Подгружает локальную переменную и выводит, что в неё лежит.
+- Подгружает локальную переменную и выводит, что в ней лежит.
 
 ![image](https://github.com/user-attachments/assets/d02dc665-915d-4497-8052-07ff943ce746)
 
